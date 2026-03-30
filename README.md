@@ -1,23 +1,17 @@
-# OT Security & PRA Training
+# OT Training Foundation
 
-## 🎯 Training Objective
-After this training, participants will be able to:
-- Understand PRA concepts
-- Identify protection requirements
-- Communicate effectively with IT/OT stakeholders
+## 🎯 Objective
+This repository provides structured training materials for OT-related topics.
 
 ## 👥 Target Audience
 - OT engineers
 - Project managers
 - Technical leads
 
-## 📚 Training Structure
-1. Fundamentals
-2. PRA Methodology
-3. Case Studies
-4. Hands-on Exercises
-
-## 📌 How to Use This Repository
-- Trainers: follow the sequence 01 → 04
-- Participants: read folders 01–03 before exercises
-``
+## 📚 Structure
+- 00_Overview – Training scope and objectives
+- 01_Fundamentals – Core concepts
+- 02_Core_Topics – Key modules
+- 03_Case_Studies – Real examples
+- 04_Exercises – Practice materials
+- 05_Templates – Reusable templates
