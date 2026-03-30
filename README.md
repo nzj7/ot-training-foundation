@@ -1,9 +1,23 @@
-📦 ot-training-foundation
- ┣ 📘 README.md                ← 培训首页（非常重要）
- ┣ 📂 00_Overview              ← 培训整体说明
- ┣ 📂 01_Fundamentals           ← 基础概念
- ┣ 📂 02_Core_Topics            ← 核心课程
- ┣ 📂 03_Case_Studies           ← 案例
- ┣ 📂 04_Exercises              ← 练习 & 作业
- ┣ 📂 05_Templates              ← 模板 & 工具
- ┣ 📂 99_Trainer_Notes          ← 讲师备注（可不公开）
+# OT Security & PRA Training
+
+## 🎯 Training Objective
+After this training, participants will be able to:
+- Understand PRA concepts
+- Identify protection requirements
+- Communicate effectively with IT/OT stakeholders
+
+## 👥 Target Audience
+- OT engineers
+- Project managers
+- Technical leads
+
+## 📚 Training Structure
+1. Fundamentals
+2. PRA Methodology
+3. Case Studies
+4. Hands-on Exercises
+
+## 📌 How to Use This Repository
+- Trainers: follow the sequence 01 → 04
+- Participants: read folders 01–03 before exercises
+``
